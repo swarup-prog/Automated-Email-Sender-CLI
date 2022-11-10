@@ -1,1 +1,1 @@
-# Automated-Email-Sender-CLI
+# Multiple-Email-Sender-Puthon-CLI
