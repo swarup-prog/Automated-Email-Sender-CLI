@@ -2,7 +2,6 @@ import smtplib
 import pwinput as pwd
 import ssl
 from email.message import EmailMessage
-import pandas as pd
 
 # Get details of email sender and receiver
 email_sender = input('Email: ')
